@@ -44,7 +44,7 @@ Greetings, my name is **Maaz Syed** and I am a **Software Engineering** student.
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
-## Contact me !
+### Contact me !
 
 - Personal Email: maazsyedbusiness@gmail.com
 - Linkedin: ( coming soon ) 
@@ -53,3 +53,6 @@ Greetings, my name is **Maaz Syed** and I am a **Software Engineering** student.
 <!-- Same code to enter for the fields 
 [![website](https://img.shields.io/badge/https://licardo.cn-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://licardo.cn)
 -->
+
+## My GitHub Statistics
+![github stats](https://github-readme-stats.vercel.app/api?username=Yoshi-islands&show_icons=true)
