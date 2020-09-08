@@ -19,11 +19,11 @@ Greetings, my name is **Maaz Syed** and I am a **Software Engineering** student.
 
 ### Some Personal Things about me 
 
--💻 I'm currently a Software Engineering student at the University of Guelph
--💼 Pursuing a Bachelor's degree in Computing
--🤔 As a new developer I have many interests, but I'm keen about learning more Javascript framworks
--💬 Feel free to contact me or even suggest improvements, I like to keep an open mind
--⚡ I'm actually a **[polyglot](https://www.merriam-webster.com/dictionary/polyglot)**, speaking multiple languages
+-💻 I'm currently a Software Engineering student at the University of Guelph;
+-💼 Pursuing a Bachelor's degree in Computing;
+-🤔 As a new developer I have many interests, but I'm keen about learning more Javascript framworks;
+-💬 Feel free to contact me or even suggest improvements, I like to keep an open mind;
+-⚡ I'm actually a **[polyglot](https://www.merriam-webster.com/dictionary/polyglot)**, speaking multiple languages;
 
 ### Languages and Tools
 
