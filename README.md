@@ -23,11 +23,11 @@ Greetings, my name is **Maaz Syed** and I am a **Software Engineering** student.
 - 💼 Pursuing a Bachelor's degree in Computing
 - 🤔 As a new developer I have many interests, but I'm keen about learning more Javascript framworks
 - 💬 Feel free to contact me or even suggest improvements, I like to keep an open mind
-- ⚡ I'm actually a **[polyglot](https://www.merriam-webster.com/dictionary/polyglot)**, speaking multiple languages
+- ⚡ Fun fact: I'm actually a **[polyglot](https://www.merriam-webster.com/dictionary/polyglot)**, speaking multiple languages
 
 ### Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white)
-
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=white)
 
