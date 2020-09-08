@@ -44,3 +44,12 @@ Greetings, my name is **Maaz Syed** and I am a **Software Engineering** student.
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
+## Contact me !
+
+- Personal Email: maazsyedbusiness@gmail.com
+- Linkedin: ( coming soon ) 
+- Personal website: ( coming soon ) 
+
+<!-- Same code to enter for the fields 
+[![website](https://img.shields.io/badge/https://licardo.cn-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://licardo.cn)
+-->
