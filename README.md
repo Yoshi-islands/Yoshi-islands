@@ -41,6 +41,6 @@ Greetings, my name is **Maaz Syed** and I am a **Software Engineering** student.
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=flat&logo=visual-studio-code&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat&logo=eclipse-ide&logoColor=white)
 ![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=black)
-
-
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
