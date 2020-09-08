@@ -40,7 +40,7 @@ Greetings, my name is **Maaz Syed** and I am a **Software Engineering** student.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=flat&logo=visual-studio-code&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat&logo=eclipse-ide&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=&logoColor=black)
 
 
 
