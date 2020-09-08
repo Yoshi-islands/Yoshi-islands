@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Greetings, my name is **Maaz Syed** and I am a **Software Engineering** student. Ever since I was a child I've loved to problem solving and finding many  unique ways to approach them, while being able to constantly improve those approaches. This is why I love Software and coding the cool projects that I want ! 
 
-### Some Personal Things about me 
+## Some Personal Things about me 
 
 - 💻 I'm currently a Software Engineering student at the University of Guelph
 - 💼 Pursuing a Bachelor's degree in Computing
@@ -25,7 +25,7 @@ Greetings, my name is **Maaz Syed** and I am a **Software Engineering** student.
 - 💬 Feel free to contact me or even suggest improvements, I like to keep an open mind
 - ⚡ Fun fact: I'm actually a **[polyglot](https://www.merriam-webster.com/dictionary/polyglot)**, speaking multiple languages
 
-### Languages and Tools
+## Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white)
@@ -44,7 +44,7 @@ Greetings, my name is **Maaz Syed** and I am a **Software Engineering** student.
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
-### Contact me !
+## Contact me !
 
 - Personal Email: maazsyedbusiness@gmail.com
 - Linkedin: ( coming soon ) 
@@ -54,5 +54,5 @@ Greetings, my name is **Maaz Syed** and I am a **Software Engineering** student.
 [![website](https://img.shields.io/badge/https://licardo.cn-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://licardo.cn)
 -->
 
-### My GitHub Statistics
+## My GitHub Statistics
 ![github stats](https://github-readme-stats.vercel.app/api?username=Yoshi-islands&show_icons=true)
