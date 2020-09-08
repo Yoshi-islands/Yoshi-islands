@@ -30,4 +30,6 @@ Greetings, my name is **Maaz Syed** and I am a **Software Engineering** student.
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=css3&logoColor=white)
 
