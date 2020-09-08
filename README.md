@@ -1,4 +1,4 @@
-## console.log('Hey there, I'm Maaz');  👋
+# console.log('Hey there, I'm Maaz');  👋
 
 <!--
 **Yoshi-islands/Yoshi-islands** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -54,5 +54,5 @@ Greetings, my name is **Maaz Syed** and I am a **Software Engineering** student.
 [![website](https://img.shields.io/badge/https://licardo.cn-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://licardo.cn)
 -->
 
-## My GitHub Statistics
+### My GitHub Statistics
 ![github stats](https://github-readme-stats.vercel.app/api?username=Yoshi-islands&show_icons=true)
