@@ -46,7 +46,7 @@ Greetings, my name is **Maaz Syed** and I am a **Software Engineering** student.
 
 ## Contact me !
 
-- Personal Email: maazsyedbusiness@gmail.com
+- Personal Email: [![Email](https://img.shields.io/badge/maazsyedbusiness@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maazsyedbusiness@gmail.com)
 - Linkedin: ( coming soon ) 
 - Personal website: ( coming soon ) 
 
