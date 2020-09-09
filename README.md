@@ -43,7 +43,8 @@ Greetings, my name is **Maaz Syed** and I am a **Software Engineering** student.
 ![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=black)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ## Contact me !
 
 - Personal Email: [![Email](https://img.shields.io/badge/maazsyedbusiness@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maazsyedbusiness@gmail.com)
