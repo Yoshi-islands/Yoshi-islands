@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Greetings, my name is **Maaz Syed** and I am a **Software Engineering** student. Ever since I was a child I've loved to problem solving and finding many  unique ways to approach them, while being able to constantly improve those approaches. This is why I love Software and coding the cool projects that I want ! 
-
+Greetings, my name is **Maaz Syed** and I am a **Software Engineering** student.
 ## Some Personal Things about me 
 
 - 💻 I'm currently a Software Engineering student at the University of Guelph
