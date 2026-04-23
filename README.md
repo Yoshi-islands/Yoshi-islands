@@ -1,4 +1,3 @@
-# console.log('Hey there, I'm Maaz');  👋
 
 <!--
 **Yoshi-islands/Yoshi-islands** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Greetings, my name is **Maaz Syed** and I am a **Software Engineering** student.
 ## Some Personal Things about me 
 
 - 💻 I'm currently a Software Engineering student at the University of Guelph
@@ -44,11 +41,6 @@ Greetings, my name is **Maaz Syed** and I am a **Software Engineering** student.
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-## Contact me !
-
-- Personal Email: [![Email](https://img.shields.io/badge/maazsyedbusiness@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maazsyedbusiness@gmail.com)
-- Linkedin: ( coming soon ) 
-- Personal website: ( coming soon ) 
 
 <!-- Same code to enter for the fields 
 [![website](https://img.shields.io/badge/https://licardo.cn-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://licardo.cn)
