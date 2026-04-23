@@ -47,4 +47,15 @@ Here are some ideas to get you started:
 -->
 
 ## My GitHub Statistics
-![github stats](https://github-readme-stats.vercel.app/api?username=Yoshi-islands&show_icons=true)
+## GitHub Stats
+
+## My GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yoshi-islands&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoshi-islands&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Yoshi-islands" alt="GitHub Streak" />
+</p>
